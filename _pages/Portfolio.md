@@ -31,8 +31,6 @@ This project was a stepping stone that has prepared me for the challenges of adv
 
 ### Numerical Methods and Bootstrap in R
 
-### Project Title: Application of Taylor Expansion and Newton's Method in Statistical Analysis
-
 **Overview**
 In the project, my colleague Mathieu Graf and I engaged with advanced statistical concepts and numerical methods to explore and analyze mathematical functions. The project was centered around the function f(x) = exp(x)/(1+exp(x)), for which we developed a third-order Taylor expansion and applied Newton's method to find its maximum.
 
