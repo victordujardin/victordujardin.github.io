@@ -25,3 +25,17 @@ This project help me familiarize with Bayesian techniques
 ## Wine prediction
 
 The idea of the project is to predict the color of the wine based on some characteristics
+
+## Snakes and Ladder
+
+## Linear models
+
+## Linear programming
+
+## Fiancial Analysis
+
+## Production and operation management
+
+
+
+
