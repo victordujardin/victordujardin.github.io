@@ -10,6 +10,10 @@ layout: single
 
 ## [Asteroid Classification Using SVM and Kernel SVMs](https://victordujardin.github.io/_pages/statistical-machine-learning/)
 
+
+## [Bayesian statistics](https://victordujardin.github.io/_pages/bayesian/)
+This project help me familiarize with Bayesian techniques
+
 ## Heart Disease Prediction
 
 In this project, I tried to predict heart disease based on several factors using ML techniques such as PCA, CCA, MDA, ...
@@ -19,8 +23,6 @@ In this project, I tried to predict heart disease based on several factors using
 ## Hand gesture Recognition
 This project implemented in python aimed to recognise some pattern such as number or shapes based on hand gesture data
 
-## Bayesian statistics
-This project help me familiarize with Bayesian techniques
 
 ## Wine prediction
 
