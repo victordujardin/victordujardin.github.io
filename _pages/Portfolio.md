@@ -6,7 +6,7 @@ layout: single
 
 ### Time Series Analysis
 
-
+You can access this project by clicking on [this](https://github.com/victordujardin/Times-Series-Analysis)
 
 In the project, "Analyzing Daily Stock Returns of Dell Computer Corporation," I embarked on an intricate exploration of time series analysis, focusing on the financial domain. This project not only provided me with a platform to apply theoretical knowledge to real-world data but also served as a rich learning experience in handling, modeling, and interpreting complex financial datasets.
 
