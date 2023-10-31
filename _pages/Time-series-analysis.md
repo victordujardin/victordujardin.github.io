@@ -1,3 +1,9 @@
+---
+title: "Time series analysis"
+layout: single
+---
+
+
 ## Time Series Analysis
 
 You can access this project by clicking on [this](https://github.com/victordujardin/Times-Series-Analysis)
