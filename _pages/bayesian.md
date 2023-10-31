@@ -30,6 +30,6 @@ As an integral component of my coursework in Bayesian statistics, this project p
 This endeavor was a cornerstone in my academic journey, blending theoretical knowledge with practical applications in biosciences. It stands as a testament to my capability to address data-driven challenges and derive actionable insights in healthcare and research sectors.
 
 ### Acknowledgments
-I am grateful to Professor Philippe Lambert and Teaching Assistant Hortense Doms for their invaluable guidance. My appreciation also extends to my colleagues, Victor Dujardin and Mathieu Graf, for a collaborative and enriching project experience.
+I am grateful to Professor Philippe Lambert and Teaching Assistant Hortense Doms for their invaluable guidance. My appreciation also extends to my colleagues, Lucas Elvira and Mathieu Graf, for a collaborative and enriching project experience.
 
 
