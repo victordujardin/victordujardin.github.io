@@ -85,7 +85,7 @@ The project accentuated the criticality of choosing the right kernel functions a
 Working with Mathieu Graf on this project was a demonstration of our combined technical expertise and collaborative synergy. It was an invaluable experience that refined our analytical skills and enhanced our data science proficiency for future endeavors.
 
 
-### Heart Disease Prediction
+## Heart Disease Prediction
 
 In this project, I tried to predict heart disease based on several factors using ML techniques such as PCA, CCA, MDA, ...
 
