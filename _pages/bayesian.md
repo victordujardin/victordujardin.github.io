@@ -9,7 +9,7 @@ title: "Bayesian statistics"
 
 **Course:** LSTAT2130 - Introduction to Bayesian statistics  
 **Submission Date:** May 2023  
-**Authors:** Victor Dujardin, Lucas Elvira, Mathieu Graf  
+**Authors:** Lucas Elvira, Mathieu Graf, Victor Dujardin  
 **Guidance:** Professor Philippe Lambert, Teaching Assistant Hortense Doms  
 
 As an integral component of my coursework in Bayesian statistics, this project provided a platform to delve into the application of Bayesian analysis to model the growth patterns of cancer cells. The initiative was not only a testament to my analytical prowess but also served as a conduit for a deeper comprehension of the intricate biological systems.
