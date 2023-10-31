@@ -4,7 +4,7 @@ title: "Porfolio"
 layout: single
 ---
 
-### Time Series Analysis
+## Time Series Analysis
 
 You can access this project by clicking on [this](https://github.com/victordujardin/Times-Series-Analysis)
 
@@ -29,7 +29,7 @@ Key Learning Outcomes:
 This project was a stepping stone that has prepared me for the challenges of advanced research and has solidified my resolve to pursue a career where data analysis and econometrics are at the forefront.
 
 
-### Numerical Methods and Bootstrap in R
+## Numerical Methods and Bootstrap in R
 
 You can access the project by clicking on [this](https://github.com/victordujardin/Numerical-methods)
 
@@ -62,7 +62,7 @@ Through the completion of this project, I have gained valuable insights and deep
 
 
 
-### Asteroid Classification Using SVM and Kernel SVMs
+## Asteroid Classification Using SVM and Kernel SVMs
 
 In collaboration with Mathieu Graf, this machine learning project aimed to classify asteroids as hazardous or non-hazardous by employing Support Vector Machines (SVM) and kernel SVMs. This initiative was a deep dive into SVM analysis, enhancing our understanding of kernel functions and their impact on classification tasks.
 
@@ -91,12 +91,12 @@ In this project, I tried to predict heart disease based on several factors using
 
 
 
-### Hand gesture Recognition
+## Hand gesture Recognition
 This project implemented in python aimed to recognise some pattern such as number or shapes based on hand gesture data
 
-### Bayesian statistics
+## Bayesian statistics
 This project help me familiarize with Bayesian techniques
 
-### Wine prediction
+## Wine prediction
 
 The idea of the project is to predict the color of the wine based on some characteristics
