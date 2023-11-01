@@ -12,15 +12,18 @@ layout: single
 
 
 ## [Modeling Cancer Cell Growth: Bayesian Analysis and Inference](https://victordujardin.github.io/_pages/bayesian/)
-This project help me familiarize with Bayesian techniques
+
+
+
+## [Hand gesture Recognition](https://victordujardin.github.io/_pages/Hand-gesture-recognition/)
+
+
 
 ## Heart Disease Prediction
 
 In this project, I tried to predict heart disease based on several factors using ML techniques such as PCA, CCA, MDA, ...
 
 
-
-## [Hand gesture Recognition](https://victordujardin.github.io/_pages/Hand-gesture-recognition/)
 
 
 ## Wine prediction
