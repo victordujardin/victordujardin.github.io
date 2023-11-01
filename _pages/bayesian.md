@@ -1,11 +1,10 @@
 ---
 layout: single
-title: "Bayesian statistics"
+title: "Modeling Cancer Cell Growth: Bayesian Analysis and Inference"
 
 ---
 
-## Project Overview
-### "Modeling Cancer Cell Growth: Bayesian Analysis and Inference"
+### Project Overview
 
 **Course:** LSTAT2130 - Introduction to Bayesian statistics  
 **Submission Date:** May 2023  
