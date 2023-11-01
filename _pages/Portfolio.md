@@ -20,8 +20,7 @@ In this project, I tried to predict heart disease based on several factors using
 
 
 
-## Hand gesture Recognition
-This project implemented in python aimed to recognise some pattern such as number or shapes based on hand gesture data
+## [Hand gesture Recognition](https://victordujardin.github.io/_pages/Hand-gesture-recognition/)
 
 
 ## Wine prediction
