@@ -11,7 +11,7 @@ layout: single
 ## [Asteroid Classification Using SVM and Kernel SVMs](https://victordujardin.github.io/_pages/statistical-machine-learning/)
 
 
-## [Bayesian statistics](https://victordujardin.github.io/_pages/bayesian/)
+## [Modeling Cancer Cell Growth: Bayesian Analysis and Inference](https://victordujardin.github.io/_pages/bayesian/)
 This project help me familiarize with Bayesian techniques
 
 ## Heart Disease Prediction
