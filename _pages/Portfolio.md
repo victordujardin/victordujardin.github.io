@@ -19,27 +19,36 @@ layout: single
 
 
 
-## Heart Disease Prediction
-
-In this project, I tried to predict heart disease based on several factors using ML techniques such as PCA, CCA, MDA, ...
 
 
 
 
-## Wine prediction
 
-The idea of the project is to predict the color of the wine based on some characteristics
 
-## Snakes and Ladder
 
-## Linear models
 
-## Linear programming
 
-## Fiancial Analysis
 
-## Production and operation management
 
+
+
+
+
+
+<!-- ## Heart Disease Prediction -->
+<!-- In this project, I tried to predict heart disease based on several factors using ML techniques such as PCA, CCA, MDA, ... -->
+<!-- ## Wine prediction -->
+
+
+
+
+<!--  The idea of the project is to predict the color of the wine based on some characteristics-->
+<!--## Snakes and Ladder  -->
+<!-- ## Linear models -->
+
+<!-- ## Linear programming -->
+<!--  ## Fiancial Analysis-->
+<!--## Production and operation management  -->
 
 
 
