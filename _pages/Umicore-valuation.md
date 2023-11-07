@@ -4,6 +4,8 @@ title: "Umicore valuation"
 
 ---
 
+You can access the project by clicking on this [link](https://github.com/victordujardin/Umicore-valuation).
+
 # Valuation Analysis of Umicore
 
 ## Project Overview
