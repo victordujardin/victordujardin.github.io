@@ -18,7 +18,7 @@ layout: single
 ## [Hand gesture Recognition](https://victordujardin.github.io/_pages/Hand-gesture-recognition/)
 
 
-
+## [Umicore Valuation](https://victordujardin.github.io/_pages/Umicore-valuation/)
 
 
 
