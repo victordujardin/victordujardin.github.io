@@ -7,7 +7,7 @@ title: "Umicore valuation"
 # Valuation Analysis of Umicore
 
 ## Project Overview
-In this project, I engaged in an in-depth financial analysis and valuation of Umicore, a global materials technology and recycling group. The goal was to estimate the company's value using advanced financial models and to gain insights into the potential of new projects the company might undertake.
+In this project, with my colleagues Florette Beghin, Tommaso Cassio, Sacha Delcourt, Laetitia Masarweh, and Mathys Ribeiro, I engaged in an in-depth financial analysis and valuation of Umicore, a global materials technology and recycling group. The goal was to estimate the company's value using advanced financial models and to gain insights into the potential of new projects the company might undertake.
 
 ## Key Learning Objectives
 - To understand and apply the principles of the Discounted Cash Flow (DCF) method.
