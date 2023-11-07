@@ -3,6 +3,8 @@ layout: single
 title: "Hand gesture recognition"
 ---
 
+You can access the project by clicking on this [link](https://github.com/victordujardin/Data-mining-and-decision-making-pattern-recognition).
+
 ### Overview
 In an academic collaboration for the course **LINFO2275 - Data Mining and Decision Making** at UCLouvain, my colleagues Chloé Marchal, Mathieu Graf and I embarked on a challenging and insightful journey into the world of gesture recognition. Our project's aim was to develop a smart user interface capable of recognizing hand gestures with high accuracy. We explored and implemented two distinct methodologies: the traditional edit-distance approach and the more contemporary convolutional neural networks (CNNs).
 
