@@ -2,7 +2,7 @@
 title: "statistical machine learning"
 layout: single
 ---
-
+You can access the project by clicking on this [link](https://github.com/victordujardin/Statistical-machine-learning).
 
 ## Asteroid Classification Using SVM and Kernel SVMs
 
