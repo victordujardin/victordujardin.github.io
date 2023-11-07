@@ -4,6 +4,8 @@ title: "Modeling Cancer Cell Growth: Bayesian Analysis and Inference"
 
 ---
 
+You can access the project by clicking on this [link](https://github.com/victordujardin/Bayesian-statistics).
+
 ### Project Overview
 
 **Course:** LSTAT2130 - Introduction to Bayesian statistics  
